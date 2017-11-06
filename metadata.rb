@@ -1,9 +1,9 @@
-name 'utility-tools'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+name 'emacs'
+maintainer 'Joey Andres'
+maintainer_email 'jandres@joeyandres.com'
 license 'All Rights Reserved'
-description 'Installs/Configures utility-tools'
-long_description 'Installs/Configures utility-tools'
+description 'Installs/Configures emacs'
+long_description 'Installs/Configures emacs for my linux servers. Configuration involves removing pesky backup files.'
 version '0.1.0'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
